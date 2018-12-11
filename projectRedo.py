@@ -103,9 +103,9 @@ CSVwriterRest= csv.writer(CSVoutfileW, delimiter=',',lineterminator='\n')
 long= [westWinter,westSpring,westSummer,westFall,southwestWinter,southwestSpring,southwestSummer,southwestFall,southeastWinter,southeastSpring
     ,southeastSummer,southeastFall,midwestWinter,midwestSpring,midwestSummer,midwestFall,northeastWinter,northeastSpring,northeastSummer,northeastFall]
 
-headers=['Region','Season','Avg']
+headers=['Region','Season','Reviews','Avg']
 CSVwriterRest.writerow(headers)
-for i in range(1,20):
+for i in range(0,20):
     amt= len(long[i])
     kid= long[i]
     region= kid[0]
