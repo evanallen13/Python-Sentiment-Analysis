@@ -1,3 +1,3 @@
 # Python-Sentiment-Analysis
 
-[embed]https://github.com/evanallen13/Python-Sentiment-Analysis/blob/master/presentation.pdf[/embed]
+![slide 1][slidePng/01.png]
