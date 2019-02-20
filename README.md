@@ -1,3 +1,3 @@
 # Python-Sentiment-Analysis
 
-This was my finall for my Python class
+[embed]https://github.com/evanallen13/Python-Sentiment-Analysis/blob/master/presentation.pdf[/embed]
